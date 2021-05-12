@@ -1,0 +1,343 @@
+@media (min-width: 350px) {
+  iframe {
+    width: 350px;
+    height: 350px;
+    border: 1px solid rgb(255,255,255);
+    margin-top: 30px;
+  }
+}
+
+iframe {
+  width: 615px;
+  height: 350px;
+  border: 1px solid rgb(255,255,255);
+  margin-top: 30px;
+}
+
+@media (min-width: 576px) {
+  #advisor {
+    height: 100vh;
+  }
+}
+
+@media (max-width: 576px) {
+  #advisor {
+    height: 100vh;
+  }
+}
+
+img {
+  height: 450px;
+  width: 600px;
+  padding-bottom: 0px;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  padding-bottom: 0px;
+}
+
+#finishedbasket {
+  width: 400px;
+  height: 300px;
+}
+
+@media (max-width: 575px) {
+  #finishedbasket {
+    width: 300px;
+    height: 200px;
+  }
+}
+
+#cspteam {
+  width: 600px;
+  height: 450px;
+  padding-bottom: 0px;
+}
+
+@media (max-width: 700px) {
+  #cspteam {
+    width: 300px;
+    height: 225px;
+    padding-bottom: 0px;
+  }
+}
+
+#donatingtocsp2019 {
+  padding-bottom: 0px;
+  width: 370px;
+  height: 350px;
+}
+
+@media (max-width: 576px) {
+  #donatingtocsp2019 {
+    padding-bottom: 0px;
+    width: 280px;
+    height: 250px;
+  }
+}
+
+#donationboxmap {
+  width: 470px;
+  height: 370px;
+}
+
+@media (max-width: 576px) {
+  #donationboxmap {
+    width: 300px;
+    height: 350px;
+  }
+}
+
+#navbar-projects {
+  height: 45vh;
+  background: url("/assets/img/background/projects.png") bottom / cover no-repeat fixed;
+  color: white;
+}
+
+@media (max-width: 576px) {
+  #navbar-projects {
+    height: 45vh;
+    background: url("/assets/img/background/projects.png") bottom / cover no-repeat scroll;
+    color: white;
+  }
+}
+
+#navbar-contact {
+  height: 53vh;
+  background: url("/assets/img/background/contact.jpg") center / cover fixed;
+}
+
+@media (max-width: 576px) {
+  #navbar-contact {
+    height: 53vh;
+    background: url("/assets/img/background/contact.jpg") center / cover scroll;
+  }
+}
+
+#navbar-getinvolved {
+  height: 53vh;
+  background: url("/assets/img/background/get-involved.jpg") center / cover fixed;
+}
+
+@media (max-width: 576px) {
+  #navbar-getinvolved {
+    height: 53vh;
+    background: url("/assets/img/background/get-involved.jpg") center / cover scroll;
+  }
+}
+
+#navbar-members {
+  height: 53vh;
+  background: url("/assets/img/image/group.jpg") bottom / cover fixed;
+}
+
+@media (max-width: 576px) {
+  #navbar-members {
+    height: 53vh;
+    background: url("/assets/img/image/group.jpg") center / cover scroll;
+  }
+}
+
+#navbar-credits {
+  height: 53vh;
+  background: url("/assets/img/background/credits.jpg") center / cover no-repeat fixed;
+}
+
+@media (max-width: 576px) {
+  #navbar-credits {
+    height: 53vh;
+    background: url("/assets/img/background/credits.jpg") center / cover no-repeat scroll;
+  }
+}
+
+#navbar-legal {
+  background: url("/assets/img/background/legal.png") right / cover fixed;
+  height: 45vh;
+}
+
+@media (max-width: 576px) {
+  #navbar-legal {
+    background: url("/assets/img/background/legal.png") right / cover scroll;
+    height: 47vh;
+  }
+}
+
+#legalimglink {
+  width: 450px;
+  height: 300px;
+  padding-bottom: 0px;
+}
+
+@media (max-width: 576px) {
+  #legalimglink {
+    width: 300px;
+    height: 225px;
+    padding-bottom: 15px;
+  }
+}
+
+#legalimgprivlink {
+  width: 450px;
+  height: 300px;
+  padding-bottom: 0px;
+}
+
+@media (max-width: 576px) {
+  #legalimgprivlink {
+    width: 300px;
+    height: 225px;
+    padding-bottom: 15px;
+  }
+}
+
+#navbar-terms {
+  background: url("/assets/img/background/privacy-policy.jpg") center / cover fixed;
+  height: 45vh;
+  font-size: 16px;
+}
+
+@media (max-width: 576px) {
+  #navbar-terms {
+    background: url("/assets/img/background/privacy-policy.jpg") center / cover scroll;
+    height: 45vh;
+    font-size: 16px;
+  }
+}
+
+#headingtext-terms {
+  text-align: center;
+  background: rgba(136,136,136,0.53);
+  margin-bottom: 0px;
+  color: rgb(255,255,255);
+  font-size: 36px;
+}
+
+@media (max-width: 576px) {
+  #headingtext-terms {
+    text-align: center;
+    background: rgba(136,136,136,0.53);
+    margin-bottom: 0px;
+    color: rgb(255,255,255);
+    font-size: 30px;
+  }
+}
+
+#navbar-privacy {
+  height: 40vh;
+  background: url("/assets/img/image/privacy.png") bottom / cover fixed;
+}
+
+@media (max-width: 576px) {
+  #navbar-privacy {
+    height: 45vh;
+    background: url("/assets/img/image/privacy.png") bottom / cover scroll;
+  }
+}
+
+#fbla-logos {
+  width: 300px;
+  height: 137px;
+  padding: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+}
+
+@media (min-width: 300px) {
+  #fbla-logos {
+    width: 219px;
+    height: 103px;
+    padding: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+  }
+}
+
+#heading-video {
+  margin-top: 86px;
+}
+
+@media (max-width: 768px) {
+  #heading-video {
+    margin-top: 0px;
+  }
+}
+
+#makayavideo {
+  width: 540px;
+  height: 310px;
+  margin-bottom: 30px;
+}
+
+@media (max-width: 576px) {
+  #makayavideo {
+    width: 484px;
+    height: 285px;
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 360px) {
+  #makayavideo {
+    width: 320px;
+    height: 219px;
+  }
+}
+
+#footer-logo {
+  width: 390px;
+  height: 180px;
+  padding-bottom: 0px;
+}
+
+@media (max-width: 400px) {
+  #footer-logo {
+    width: 310px;
+    height: 133px;
+    padding-bottom: 0px;
+  }
+}
+
+#navbar-request {
+  height: 40vh;
+  background: url("/assets/img/background/requestdata.png") top / cover fixed;
+}
+
+@media (max-width: 576px) {
+  #navbar-request {
+    height: 40vh;
+    background: url("/assets/img/background/requestdata.png") center / cover scroll;
+  }
+}
+
+#navbar-index {
+  height: 100vh;
+  background: url("/assets/img/image/group.jpg") center / cover no-repeat fixed;
+  color: white;
+  background-attachment: fixed;
+}
+
+@media (max-width: 576px) {
+  #navbar-index {
+    height: 100vh;
+    background: url("/assets/img/image/group.jpg") center / cover no-repeat scroll;
+    color: white;
+    background-attachment: scroll;
+  }
+}
+
+#navbar-photos {
+  height: auto;
+  background: url("/assets/img/background/photos.jpg") center / cover fixed;
+  padding-bottom: 15vh;
+}
+
+@media (max-width: 576px) {
+  #navbar-photos {
+    height: auto;
+    background: url("/assets/img/background/photos.jpg") center / cover scroll;
+    padding-bottom: 15vh;
+  }
+}
+

@@ -1,0 +1,29 @@
+@media (min-width: 300px) {
+  img {
+    height: 400px;
+    width: 300px;
+  }
+}
+
+@media (min-width: 300px) {
+  img {
+    height: 400px;
+    width: 300px;
+    padding-bottom: 25px;
+  }
+}
+
+@media (min-width: 700px) {
+  #abc {
+    height: 233px;
+    background: url("https://unsplash.it/1800/900?image=1051") center / cover;
+    background-attachment: none;
+  }
+}
+
+#abc {
+  height: 233px;
+  background: url("https://unsplash.it/1800/900?image=1051") center / cover;
+  background-attachment: fixed;
+}
+
